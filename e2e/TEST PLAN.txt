@@ -1,0 +1,25 @@
+STA TESTIRATI:
+
+1. UI i NAVIGACIJA
+
+* App
+    - ono sto se uvek vidi:
+        - app name
+        - dva dugmeta
+
+* Dashboard stranica
+    ------ link da li je ispravan
+    ------ Top heroes header
+    - top hero dugmici
+    ------ hero search      (u logiku!)
+
+* Heroes stranica
+    ------ link da li je ispravan
+    ------ My heroes header
+    ------ lista da li se vidi
+    ------- add new hero
+    - ngFor ...
+
+* Izmena heroja (details)
+
+2. LOGIKA
